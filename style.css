@@ -1,0 +1,12 @@
+.btn{
+    border: 1px solid blue;
+    background-color: lightblue;
+}
+.btn:hover{
+    background-color: cornflowerblue;
+}
+.link{
+    max-width: 120%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
