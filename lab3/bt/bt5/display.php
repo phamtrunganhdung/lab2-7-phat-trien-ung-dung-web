@@ -17,19 +17,19 @@
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>';
           }
         }elseif($dpval == "400x400"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>';
           }
         }elseif($dpval == "800x800"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>';
           }
         }
     }elseif($fdval == "bongda"){
@@ -38,19 +38,19 @@
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>';
           }
         }elseif($dpval == "400x400"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>';
           }
         }elseif($dpval == "800x800"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>';
           }
         }
     }elseif($fdval == "xe"){
@@ -59,19 +59,19 @@
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:200px;height:200px;"/>';
           }
         }elseif($dpval == "400x400"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:400px;height:400px;"/>';
           }
         }elseif($dpval == "800x800"){
             for ($i=0; $i<count($all_files); $i++)
           {
             $image_name = $all_files[$i];
-            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>'."<br /><br />";
+            echo '<img src="'.$image_name .'" alt="'.$image_name.'" style="width:800px;height:800px;"/>';
           }
         }
     }
