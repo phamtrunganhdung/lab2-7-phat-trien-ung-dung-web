@@ -8,4 +8,7 @@ $(document).ready(function(){
     $("#lab3").click(function(){
         location = "lab3/index.html";
     });
+    $("#lab3").click(function(){
+        location = "lab4/index.html";
+    });
 });
