@@ -17,4 +17,7 @@ $(document).ready(function(){
     $("#lab6").click(function(){
         location = "lab6/index.html";
     });
+    $("#lab7").click(function(){
+        location = "lab7/index.html";
+    });
 });
